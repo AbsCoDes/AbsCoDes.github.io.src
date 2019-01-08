@@ -1,0 +1,26 @@
+baseurl = "https://abscodes.github.io/"
+title = "Absolute Codes Design"
+theme = "hugo-coder"
+languagecode = "en"
+
+[params]
+    author = "Absolute Codes Design"
+    keywords = "blog,developer,personal"
+    footercontent = ""
+
+    avatarurl = "images/abscodes.jpg"
+    favicon_32 = "/images/favicon-32x32.png"
+    favicon_16 = "/images/favicon-16x16.png"
+
+    hidecredits = true
+    hidecopyright = true
+    rtl = false
+    math = false
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/AbsCoDes/"

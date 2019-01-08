@@ -1,0 +1,19 @@
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #3e3e3e;
+}
+
+.centered .about ul li a {
+  color: #3e3e3e;
+}
+
+.avatar img {
+  width: 30rem;
+  height: auto;
+}
